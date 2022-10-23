@@ -23,7 +23,7 @@ discussed in this subchapter. The aims and objectives are as follows:
 ## Copyright
 This repository is under the [AGPL-3.0](LICENSE) license.
 
-All Copyright © goes to HR Shammo (https://github.com/hrshammo/) 
+All Copyright © goes to [HR Shammo](https://github.com/hrshammo/) 
 
 This essentially means that all changes that are made on top of this repository are required to be made public, regardless of where the code is being ran.
 
