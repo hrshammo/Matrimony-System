@@ -50,7 +50,7 @@ namespace MM_2._0
             MailMessage m = new MailMessage();
             to = (guna2TextBox1.Text).ToString();
             from = "matrimonysystem@gmail.com";
-            pass = "Loveu_Baby";
+            pass = "Loveu_Babyw";
             messageBody = "Your reset Code is   " + randomCode;
             m.To.Add(to);
             m.From = new MailAddress(from);
